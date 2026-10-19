@@ -25,4 +25,4 @@ The `block-party.svg` wallpaper is original. Block Party OS is an independent Ub
 See [FEATURES.md](FEATURES.md) for three local tools included for Minecraft gaming.
 
 
-The installer includes 43 purpose-specific applications beyond its core selection; the complete list is in [FEATURES.md](FEATURES.md).
+Blender is included in every setup, alongside the purpose-specific apps listed in [FEATURES.md](FEATURES.md).
