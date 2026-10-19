@@ -24,3 +24,11 @@ The `block-party.svg` wallpaper is original. Block Party OS is an independent Ub
 
 See [FEATURES.md](FEATURES.md) for three local tools included for Minecraft gaming.
 
+
+The installer also includes three purpose-specific applications: **Heroic Games Launcher, Lutris, Bottles**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Heroic Games Launcher, Lutris, Bottles**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Prism Launcher, VSCodium, Blender**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Prism Launcher, VSCodium, Blender**. See [FEATURES.md](FEATURES.md).

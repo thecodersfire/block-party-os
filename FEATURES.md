@@ -12,3 +12,13 @@ Install them from this repository:
 
     mkdir -p "$HOME/.local/bin"
     install -m 0755 features/block-party-os-workspace features/block-party-os-plan features/block-party-os-check "$HOME/.local/bin/"
+
+## Preinstalled purpose software
+
+The installer adds these three Flathub applications for Minecraft gaming:
+
+1. **Prism Launcher** — org.prismlauncher.PrismLauncher
+2. **VSCodium** — com.vscodium.codium
+3. **Blender** — org.blender.Blender
+
+They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.
