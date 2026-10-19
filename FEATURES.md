@@ -22,3 +22,20 @@ The installer adds these three Flathub applications for Minecraft gaming:
 3. **Blender** — org.blender.Blender
 
 They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.
+
+## Ten more purpose-specific preinstalled applications
+
+The setup installs these ten Flathub apps selected for Minecraft gaming:
+
+1. **Godot Engine** — build and test 2D and 3D games (org.godotengine.Godot)
+2. **GIMP** — edit raster graphics and textures (org.gimp.GIMP)
+3. **Inkscape** — create vector illustrations and diagrams (org.inkscape.Inkscape)
+4. **OBS Studio** — record or stream sessions (com.obsproject.Studio)
+5. **GNOME Boxes** — test workflows in virtual machines (org.gnome.Boxes)
+6. **GNOME Text Editor** — edit plain-text notes and configuration files (org.gnome.TextEditor)
+7. **GNOME Calculator** — perform scientific and financial calculations (org.gnome.Calculator)
+8. **Flatseal** — review Flatpak app permissions (com.github.tchx84.Flatseal)
+9. **GNOME Logs** — inspect logs during troubleshooting (org.gnome.Logs)
+10. **Disk Usage Analyzer** — find large files and manage storage (org.gnome.baobab)
+
+Flathub distributes the app packages. Check each publisher license and terms. This repository contains app IDs and documentation, not third-party binaries.
